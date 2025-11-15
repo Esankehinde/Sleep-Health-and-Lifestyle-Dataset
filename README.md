@@ -1,2 +1,29 @@
-# Sleep-Health-and-Lifestyle-Dataset
-The Sleep Health and Lifestyle dataset has 400 records and 13 variables, including demographics, sleep duration and quality, physical activity, stress, BMI, blood pressure, heart rate, daily steps, and sleep disorders, enabling analysis of habits and health outcomes.
+## 📜 Dataset Overview
+The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
+
+---
+## 📜 Dataset Columns
+- Person ID: An identifier for each individual.
+- Gender: The gender of the person (Male/Female).
+- Age: The age of the person in years.
+- Occupation: The occupation or profession of the person.
+- Sleep Duration (hours): The number of hours the person sleeps per day.
+- Quality of Sleep (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
+- Physical Activity Level (minutes/day): The number of minutes the person engages in physical activity daily.
+- Stress Level (scale: 1-10): A subjective rating of the stress level experienced by the person, ranging from 1 to 10.
+- BMI Category: The BMI category of the person (e.g., Underweight, Normal, Overweight).
+- Blood Pressure (systolic/diastolic): The blood pressure measurement of the person, indicated as systolic pressure over diastolic pressure.
+- Heart Rate (bpm): The resting heart rate of the person in beats per minute.
+- Daily Steps: The number of steps the person takes per day.
+- Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
+---
+  ## 📜 Details about Sleep Disorder Column
+  - None: The individual does not exhibit any specific sleep disorder.
+  - Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
+  - Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
+
+---
+## 📜 Copyright Notice
+
+This dataset was originally downloaded from https://www.kaggle.com/ and has been modified and extended with additional features for the purpose of this project.  
+All rights to the original dataset remain with the original creator on Kaggle.
